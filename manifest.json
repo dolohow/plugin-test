@@ -1,5 +1,6 @@
 {
   "api_version": 1,
   "version": "1.0.1",
-  "name": "hello world"
+  "name": "hello world",
+  "target_runner": "go"
 }
